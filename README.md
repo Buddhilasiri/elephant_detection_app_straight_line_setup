@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 Project documentation for Elephant Detection App
 =======
 # elephant_detection_app_straight_line_setup
